@@ -17,4 +17,4 @@ Email: [ваш email]
 LinkedIn: [ссылка на ваш профиль LinkedIn]
 Twitter: [ссылка на ваш профиль Twitter]
 📈 Мой GitHub Статистика
-Ваши статистики GitHub
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
